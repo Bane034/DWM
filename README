@@ -2,6 +2,7 @@ dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
+DWM 6.3
 
 This DWM version includes pertag, systray, noborder, alwaysoncenter patches.
 
