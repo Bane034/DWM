@@ -2,6 +2,7 @@ dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
+
 This DWM version includes pertag, systray, noborder, alwaysoncenter patches.
 
 Bstack and Gaplessgrid layouts added.
@@ -12,7 +13,6 @@ Also you can define bottom or top gap in config.h. ex: if you use some bar like 
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
-
 
 Installation
 ------------
