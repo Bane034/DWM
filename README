@@ -7,7 +7,7 @@ This DWM version includes pertag, systray, noborder, alwaysoncenter patches.
 
 Bstack and Gaplessgrid layouts added.
 
-Also you can define bottom or top gap in config.h. ex: if you use some bar like dzen and you need tp reserve the space...
+Also you can define bottom or top gap in config.h. ex: if you use some bar like dzen and you need to reserve the space...
 
 
 Requirements
